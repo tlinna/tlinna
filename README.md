@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an R enthusiast and a lifelong student. Now learning Javascript.
+I'm an R enthusiast and a lifelong student. Now a Full Stack Trainee learning my way towards web development.
 <!--
 **tlinna/tlinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
