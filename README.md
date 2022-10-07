@@ -10,15 +10,16 @@ I have a basic understanding of:
 - Vanilla Javascript
 
 Also I know a thing or two of:
-- Windows and MS Office and other office programs
+- Windows
 - Linux servers
 - Nextcloud and its hosting and management
 - AWS and Azure
+- Most common office programs
 - Computer hardware and printers, scanners and photocopiers
-- Git and GitHub (obviously)
+- Git and GitHub (well you're here aren't you)
 
 Outside of computer world:
-- Good knowledge in managing nonprofit organizations (e.g. secretary and treasurer duties)
+- Good knowledge of managing nonprofit organizations (e.g. secretary and treasurer duties)
 - Accounting
 - Photography
 
