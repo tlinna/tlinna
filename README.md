@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an R enthusiast and a lifelong student. Now a Full Stack Trainee learning my way towards web development and professional skill set. The purpose of my GitHub page is to slowly build up a portfolio to show my skill set - and possibly even share some useful code.
+I'm an R enthusiast and a lifelong student. Now a Full Stack Trainee learning my way towards web development and a professional skill set. The purpose of my GitHub page is to slowly build up a portfolio to show my skill set - and possibly even share some useful code.
 
 I have a basic understanding of:
 - R (and Shiny)
