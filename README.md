@@ -19,6 +19,7 @@ Also I know a thing or two of:
 - Git and GitHub (well you're here aren't you)
 
 Some skills outside of computer world:
+- 10 years of customer service experience in large public libraries
 - Good knowledge of managing nonprofit organizations (e.g. secretary and treasurer duties)
 - Double-entry accounting
 - Photography
