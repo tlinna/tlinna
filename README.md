@@ -17,11 +17,13 @@ Also I know a thing or two of:
 - Git and GitHub (obviously)
 
 Outside of computer world:
-- accounting
-- photography
+- Good knowledge in managing nonprofit organizations (e.g. secretary and treasurer duties)
+- Accounting
+- Photography
 
 I also know something about esports:
 - 20 years of experience in sim racing and 8 years in organizing national level competitions and live events
+- Lots of experience from sim racing communities
 
 <!--
 **tlinna/tlinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
