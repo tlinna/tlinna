@@ -10,11 +10,10 @@ I have a basic understanding of:
 - Vanilla Javascript
 
 Also I know a thing or two of:
-- Windows
 - Linux server management
 - Nextcloud and its hosting and management
 - AWS and Azure
-- Most common office programs
+- Windows and most common office programs
 - Computer hardware and printers, scanners and photocopiers
 - Git and GitHub (well you're here aren't you)
 
